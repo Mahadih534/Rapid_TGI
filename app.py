@@ -14,8 +14,9 @@ def format_prompt(message, history):
 
 description="""The Rapid TGI (Text Generation Inference) has developed by learning purpose 
                             <h3>Source Code:</h3>
-                            <ul><li><a id='link' href='https://www.facebook.com'>Github Repository</a></li>
-                            <li><a id='link' href=''>Github Repository</a></li></ul>"""
+                            <ul><li><a id='link' href='https://github.com/Mahadih534/Rapid_TGI'>Github Repository</a></li>
+                            <li><a id='link' href='https://colab.research.google.com/drive/1Ti6Dn8F9GWozjAkjj0lHX3IskEVoOK5R'>Colab Link</a></li></ul>"""
+
 
 title="<span id='logo'></span>"" Rapid TGI"
 
