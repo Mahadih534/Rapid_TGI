@@ -1,0 +1,5 @@
+# ChatBot_UI
+gradio
+
+# Mixtral Inference Endpoint
+huggingface_hub
