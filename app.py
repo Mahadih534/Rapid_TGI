@@ -12,7 +12,7 @@ def format_prompt(message, history):
   return prompt
 
 
-description="""The Rapid TGI (Text Generation Inference) has developed by learning purpose 
+description="""The Rapid TGI (Text Generation Inference) has been developed for learning purposes
                             <h3>Source Code:</h3>
                             <ul><li><a id='link' href='https://github.com/Mahadih534/Rapid_TGI'>Github Repository</a></li>
                             <li><a id='link' href='https://colab.research.google.com/drive/1Ti6Dn8F9GWozjAkjj0lHX3IskEVoOK5R'>Colab Link</a></li></ul>"""
